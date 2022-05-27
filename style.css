@@ -1,3 +1,9 @@
 body {
     background-color: red;
 }
+section {
+    font-size: 3rem;
+}
+span {
+    font-weight: bold;
+}
